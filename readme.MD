@@ -13,7 +13,8 @@ Run powershell in elevated prompt, and paste the below script
 install Choco first (powershell elevated):
 
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
-# https://chocolatey.org/install
+
+more info can be found here  https://chocolatey.org/install
 
 You can remove items from the list if you do not need them.
 
