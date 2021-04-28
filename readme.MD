@@ -1,4 +1,4 @@
-#Summary
+# Summary
 This choco setup is for a Windows .NET full stack dev (or just remove the dev items and it can be used by anyone : )
 
 #Chocolatey
@@ -7,7 +7,7 @@ Its one of the the best known auto-installer for Windows. You run a powershell s
  
 Most Windows applications will have a chocolaty install. Configurations can then also be scripted for afterwards.
 
-#INITIAL SETUP
+# INITIAL SETUP
 Run powershell in elevated prompt, and paste the below script
 
 install Choco first (powershell elevated):
