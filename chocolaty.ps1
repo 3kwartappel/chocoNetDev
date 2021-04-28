@@ -58,6 +58,7 @@ choco install webtorrent-desktop -y
 Write-Host "Installing dev stuff"
 choco install filezilla  -y
 choco install fiddler  -y
+choco install nodejs  -y
 choco install yarn  -y
 choco install zap -y
 choco install git  -y
@@ -66,7 +67,6 @@ choco install putty -y
 choco install nuget.commandline  -y
 choco install postman  -y
 choco install dotnetcore-sdk  -y
-choco install nodejs  -y
 choco install dotpeek  -y
 choco install visualstudiocode  -y
 choco install sourcetree -y
@@ -86,6 +86,7 @@ choco install linqpad -y
 choco install winmerge --pre  -y
 choco install nimbletext -y
 choco install windirstat -y
+choco install docker-desktop -y
 #choco install nvm -y
 #==========NVM VERSIONS====================================================
 # need to exit powershell and then run these for NVM
